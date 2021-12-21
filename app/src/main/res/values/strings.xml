@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobil_projekt</string>
+    <string name="altitude">altitude</string>
+    <string name="pressure">pressure</string>
+    <string name="temperature">temperature</string>
+    <string name="_0_c">0 °C</string>
+    <string name="_0">0%</string>
+    <string name="_0_hpa">0 hPa</string>
+    <string name="Altitude">Altitude:</string>
+    <string name="Pressure">Pressure:</string>
+    <string name="Temperature">Temperature:</string>
+    <string name="Humidity">Humidity:</string>
+    <string name="rv">©RV</string>
+</resources>
